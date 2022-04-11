@@ -17,3 +17,7 @@
 ## TODO
 
 - [ ] Utilizar documentação de migração de JS para **TS** como base nos tutoriais feitos com JS e migrados para **TS**
+
+## Curso Microsoft
+
+- [ ] [Link](https://docs.microsoft.com/pt-br/learn/modules/typescript-get-started/2-typescript-overview)
